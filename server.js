@@ -8,3 +8,4 @@ const server = http.createServer((req, res) => {
 server.listen(3000, () => {
   console.log("Servidor escutando na porta 3000");
 });
+// Para executar este código, salve-o em um arquivo chamado server.js e execute o comando:
